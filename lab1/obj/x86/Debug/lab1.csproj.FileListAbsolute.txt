@@ -1,0 +1,27 @@
+C:\Users\pda\Desktop\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\pda\Desktop\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\pda\Desktop\lab1\lab1\bin\Debug\OpenCvSharp.dll
+C:\Users\pda\Desktop\lab1\lab1\obj\x86\Debug\lab1.csprojResolveAssemblyReference.cache
+C:\Users\pda\Desktop\lab1\lab1\obj\x86\Debug\lab1.Form1.resources
+C:\Users\pda\Desktop\lab1\lab1\obj\x86\Debug\lab1.Properties.Resources.resources
+C:\Users\pda\Desktop\lab1\lab1\obj\x86\Debug\lab1.csproj.GenerateResource.Cache
+C:\Users\pda\Desktop\lab1\lab1\obj\x86\Debug\lab1.exe
+C:\Users\pda\Desktop\lab1\lab1\obj\x86\Debug\lab1.pdb
+F:\Lab1\lab1\obj\x86\Debug\lab1.exe
+F:\Lab1\lab1\obj\x86\Debug\lab1.pdb
+F:\Lab1\lab1\bin\Debug\lab1.exe
+F:\Lab1\lab1\bin\Debug\lab1.pdb
+F:\Lab1\lab1\bin\Debug\OpenCvSharp.dll
+F:\Lab1\lab1\obj\x86\Debug\lab1.csprojResolveAssemblyReference.cache
+F:\Lab1\lab1\obj\x86\Debug\lab1.Form1.resources
+F:\Lab1\lab1\obj\x86\Debug\lab1.Properties.Resources.resources
+F:\Lab1\lab1\obj\x86\Debug\lab1.csproj.GenerateResource.Cache
+C:\Users\Suharsha\OneDrive\Documents\4th year 1st sem\IUP\1st week\Lab1\lab1\obj\x86\Debug\lab1.exe
+C:\Users\Suharsha\OneDrive\Documents\4th year 1st sem\IUP\1st week\Lab1\lab1\obj\x86\Debug\lab1.pdb
+C:\Users\Suharsha\OneDrive\Documents\4th year 1st sem\IUP\1st week\Lab1\lab1\bin\Debug\lab1.exe
+C:\Users\Suharsha\OneDrive\Documents\4th year 1st sem\IUP\1st week\Lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\Suharsha\OneDrive\Documents\4th year 1st sem\IUP\1st week\Lab1\lab1\bin\Debug\OpenCvSharp.dll
+C:\Users\Suharsha\OneDrive\Documents\4th year 1st sem\IUP\1st week\Lab1\lab1\obj\x86\Debug\lab1.csprojResolveAssemblyReference.cache
+C:\Users\Suharsha\OneDrive\Documents\4th year 1st sem\IUP\1st week\Lab1\lab1\obj\x86\Debug\lab1.Form1.resources
+C:\Users\Suharsha\OneDrive\Documents\4th year 1st sem\IUP\1st week\Lab1\lab1\obj\x86\Debug\lab1.Properties.Resources.resources
+C:\Users\Suharsha\OneDrive\Documents\4th year 1st sem\IUP\1st week\Lab1\lab1\obj\x86\Debug\lab1.csproj.GenerateResource.Cache
